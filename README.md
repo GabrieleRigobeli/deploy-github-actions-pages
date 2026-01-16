@@ -29,8 +29,6 @@ A cada novo *push* na branch `main`, uma **pipeline automática** é executada, 
    - Publicação automática no GitHub Pages
 4. O site é atualizado automaticamente
 
-📁 Workflow localizado em:
-
 ---
 
 ## 🌐 Aplicação em Produção
