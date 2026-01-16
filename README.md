@@ -30,3 +30,47 @@ A cada novo *push* na branch `main`, uma **pipeline automática** é executada, 
 4. O site é atualizado automaticamente
 
 📁 Workflow localizado em:
+
+---
+
+## 🌐 Aplicação em Produção
+
+🔗 Acesse o site publicado:  
+👉 https://gabrielerigobeli.github.io/deploy-github-actions-pages/
+
+---
+
+## 🎯 Objetivo de Aprendizado
+
+- Compreender o funcionamento de pipelines CI/CD  
+- Automatizar deploys de aplicações estáticas  
+- Utilizar GitHub Actions na prática  
+- Aplicar versionamento de código com Git  
+- Entender a integração entre código, automação e publicação  
+
+---
+
+## 📚 Próximos Passos
+
+- Adicionar testes automatizados  
+- Evoluir o layout da aplicação  
+- Integrar novas etapas à pipeline  
+- Versionar releases  
+
+---
+
+## 👩‍💻 Autora
+
+**Gabriele Rigobeli**  
+Estudante de Tecnologia da Informação com foco em **DevOps**, automação de processos e aprendizado contínuo.
+
+🔗 GitHub: https://github.com/GabrieleRigobeli
+
+---
+
+## 🏁 Status do Projeto
+
+✅ Deploy automatizado  
+✅ Pipeline funcional  
+✅ GitHub Pages ativo  
+
